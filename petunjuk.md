@@ -64,9 +64,13 @@
 Invisible-Crypto-Wallet/
 │
 ├── generate_wallet.py       ← Script Python buat wallet
+
 ├── invisible_wallet_batch.json  ← Batch wallet terenkripsi
+
 ├── petunjuk.md              ← Kamu sedang baca ini 😎
+
 ├── README.md                ← File utama untuk GitHub
+
 └── requirements.txt         ← Modul Python yang dibutuhkan
 
 ## 📌 Instalasi & Eksekusi
@@ -84,7 +88,7 @@ Invisible-Crypto-Wallet/
 
     python generate_wallet.py
     
-#🛡️ Tips Keamanan
+# 🛡️ Tips Keamanan
 
 Tips	Kenapa Penting?
 
