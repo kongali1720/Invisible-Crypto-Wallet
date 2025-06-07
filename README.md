@@ -114,6 +114,22 @@ Let’s buat wallet yang bener-bener invisible tapi tetap powerfull!</p>
 
 ---
 
+# 🧭 Roadmap Jalur Ninja
+
+ 1️⃣ Riset protokol anonimitas
+ 
+ 2️⃣ Proof-of-concept wallet invisible
+ 
+ 3️⃣ Implementasi keygen & transaksi
+ 
+ 4️⃣ CoinJoin / ZK-Proof integrasi
+ 
+ 5️⃣ UI/UX super sederhana
+ 
+ 6️⃣ Audit keamanan
+
+---
+
 ## 🤝 Kontribusi
 
 Pull request dan issue sangat diterima!  
